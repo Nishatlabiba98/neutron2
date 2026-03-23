@@ -104,10 +104,44 @@ going through the conditions....(if given number is greater than 10 and is divis
 11. {basic idea is start at 1 and go up by 1 and keep adding to the sum but stop i at 15, but but also remember to stop once sum reaches 20}
 
 x is the sum.
-       x = 0 + 1 + 2 + 3 + 4 + 5 
-i = 1........^
-i = 2...........
-i = 3.............
-i = 4...............
-i = 5.................
-i = 6................................
+       x = 0 + 1 + 2 + 3 + 4 + 5 + 6 = 21
+i = 1..........^
+i = 2..............^
+i = 3..................^
+i = 4......................^
+i = 5.........................^
+i = 6..............................^ break!!
+
+answer is 21.
+
+12. a is 3
+b is 7
+temp is a so temp = 3.
+
+ new a = b
+       = 7.
+
+ new b = temp.......^ = 3
+ result = new a + new b 
+        = 7 + 3
+        = 10.
+
+answer is 10.
+
+13. {1, 4, 7, 10, 13, 16} length is 6
+    [0] [1] [2] [3] [4] [5]
+
+    i = 0 ; i < 6; i++  | count = 0
+i = 0 = 1%2 = 1         |
+i = 1 = 4%2 = 0         | count = 1
+i = 2 = 7%2 = 1.        |
+i = 3 =10%2 = 0         | count = 2
+i = 4 =13%2 = 1         |
+i = 5 =16%2 = 0         | count = 3
+
+answer is going to be 3.
+
+14. {3, 6, 9}
+    [0] [1] [2]
+
+    
