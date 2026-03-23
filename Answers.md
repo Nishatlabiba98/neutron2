@@ -28,4 +28,19 @@ z= x - y | result = z * 2 |
 =>11.    | 11 * 2 = 22
 answer is 22.
 
-2. 
+2. {thought is adding numbers from 1 through 4, go up by one each iteration}
+
+sum = 0  +  1 + 2 + 3 + 4 = 10.
+i =1.... ^
+i =2..........^
+i =3..............^
+i =4..................^
+
+the answer will be 10.
+
+3. given age is 16.
+
+checking condition..if age is greater than or equal to 18 then print 10, if not then print 5.
+this prints 5.
+
+4. {5, 10, 15, 20}
