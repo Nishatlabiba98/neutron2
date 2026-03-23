@@ -59,4 +59,34 @@ this prints 5.
                   answer is 5.
 
 
-6.
+6.   x = 2 | count = 0
+x = 2 * 2 = 4 | count = 1
+x = 4 * 2 = 8 | count = 2
+x = 8 * 2 = 16 | count = 3
+ 3 counts..
+
+
+7.  i = 1%2 == 1 | count = 1
+i = 2%2 == 0
+3%2 == 1         | count = 2
+4%2 == 0
+5%2 == 1         | count = 3
+6%2 == 0
+7%2 == 1.        | count = 4
+8%2 == 0
+9%2 == 1         | count = 5
+
+5 counts
+
+8. length is 6.
+len = 6
+result = 6 * 2
+= 12.
+
+9. given number is 12.
+
+going through the conditions....(if given number is greater than 10 and is divisible by 3, value printed will be 15. if given number is greater than 10 if not it will be 10)
+ seperate loop says if either conditions above do not meet it will print 5.
+
+ prints 15.
+
