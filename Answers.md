@@ -85,8 +85,29 @@ result = 6 * 2
 
 9. given number is 12.
 
-going through the conditions....(if given number is greater than 10 and is divisible by 3, value printed will be 15. if given number is greater than 10 if not it will be 10)
+going through the conditions....(if given number is greater than 10 and is divisible by 3, value printed will be 15. if given number is greater than 10 __no other conditions__ it will be 10)
  seperate loop says if either conditions above do not meet it will print 5.
 
  prints 15.
 
+ 10. {2, 4, 6, 8} | length is 4
+     [0] [1] [2] [3]
+                    total = 0 +2 +4 +6 +8 = 20.
+     i = 0 i < 4 i ++
+     i = 0 .......2 and go.... ^
+     i = 1 .......4 and go .......^
+     i = 2 .......6 and go ..........^
+     i = 3 .......8 and go .............^
+     i = 4
+
+
+11. {basic idea is start at 1 and go up by 1 and keep adding to the sum but stop i at 15, but but also remember to stop once sum reaches 20}
+
+x is the sum.
+       x = 0 + 1 + 2 + 3 + 4 + 5 
+i = 1........^
+i = 2...........
+i = 3.............
+i = 4...............
+i = 5.................
+i = 6................................
