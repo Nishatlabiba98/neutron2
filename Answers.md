@@ -44,3 +44,19 @@ checking condition..if age is greater than or equal to 18 then print 10, if not 
 this prints 5.
 
 4. {5, 10, 15, 20}
+    [0] [1] [2] [3]
+    a =[1] = 10
+    b =[3] = 20
+    total = 10 + 20 = 30
+
+5. n = 17
+   x = 17 % 5 =    5 | 17 | 3
+                     | 15 |
+                     |  2 |
+                y = x + 3
+                  = 2 + 3
+                  = 5
+                  answer is 5.
+
+
+6.
