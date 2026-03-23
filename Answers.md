@@ -16,6 +16,16 @@ java basics assesment -
 15. B.
 16. B.
 17. D.
-18. D.
+18. B.
 19. B.
-20.
+20. D.
+CODE TRACE
+
+1. x = 15
+y=4
+z= x - y | result = z * 2 |
+=>15 - 4.| ....
+=>11.    | 11 * 2 = 22
+answer is 22.
+
+2. 
